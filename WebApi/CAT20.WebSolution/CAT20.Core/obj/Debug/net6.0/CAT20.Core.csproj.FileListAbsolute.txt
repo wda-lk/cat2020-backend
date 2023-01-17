@@ -1,0 +1,72 @@
+C:\CAT20\WebApi\MySql\EF6\CAT20.WebSolution\CAT20.Core\bin\Debug\net6.0\CAT20.Core.deps.json
+C:\CAT20\WebApi\MySql\EF6\CAT20.WebSolution\CAT20.Core\bin\Debug\net6.0\CAT20.Core.dll
+C:\CAT20\WebApi\MySql\EF6\CAT20.WebSolution\CAT20.Core\bin\Debug\net6.0\CAT20.Core.pdb
+C:\CAT20\WebApi\MySql\EF6\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.csproj.AssemblyReference.cache
+C:\CAT20\WebApi\MySql\EF6\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\CAT20\WebApi\MySql\EF6\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.AssemblyInfoInputs.cache
+C:\CAT20\WebApi\MySql\EF6\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.AssemblyInfo.cs
+C:\CAT20\WebApi\MySql\EF6\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.csproj.CoreCompileInputs.cache
+C:\CAT20\WebApi\MySql\EF6\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.dll
+C:\CAT20\WebApi\MySql\EF6\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\refint\CAT20.Core.dll
+C:\CAT20\WebApi\MySql\EF6\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.pdb
+C:\CAT20\WebApi\MySql\EF6\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\ref\CAT20.Core.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Core\bin\Debug\net6.0\CAT20.Core.deps.json
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Core\bin\Debug\net6.0\CAT20.Core.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Core\bin\Debug\net6.0\CAT20.Core.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.csproj.AssemblyReference.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.AssemblyInfoInputs.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.AssemblyInfo.cs
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.csproj.CoreCompileInputs.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\refint\CAT20.Core.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\ref\CAT20.Core.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.csproj.AssemblyReference.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.AssemblyInfoInputs.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.AssemblyInfo.cs
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.csproj.CoreCompileInputs.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\refint\CAT20.Core.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Core\bin\Debug\net6.0\CAT20.Core.deps.json
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Core\bin\Debug\net6.0\CAT20.Core.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Core\bin\Debug\net6.0\CAT20.Core.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\ref\CAT20.Core.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.csproj.AssemblyReference.cache
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.AssemblyInfoInputs.cache
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.AssemblyInfo.cs
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.csproj.CoreCompileInputs.cache
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\refint\CAT20.Core.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.pdb
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Core\bin\Debug\net6.0\CAT20.Core.deps.json
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Core\bin\Debug\net6.0\CAT20.Core.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Core\bin\Debug\net6.0\CAT20.Core.pdb
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\ref\CAT20.Core.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\bin\Debug\net6.0\CAT20.Core.deps.json
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\bin\Debug\net6.0\CAT20.Core.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\bin\Debug\net6.0\CAT20.Core.pdb
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.csproj.AssemblyReference.cache
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.AssemblyInfoInputs.cache
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.AssemblyInfo.cs
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.csproj.CoreCompileInputs.cache
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\refint\CAT20.Core.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.pdb
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\ref\CAT20.Core.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\bin\Debug\net6.0\CAT20.Core.deps.json
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\bin\Debug\net6.0\CAT20.Core.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\bin\Debug\net6.0\CAT20.Core.pdb
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.csproj.AssemblyReference.cache
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.AssemblyInfoInputs.cache
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.AssemblyInfo.cs
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.csproj.CoreCompileInputs.cache
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\refint\CAT20.Core.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\CAT20.Core.pdb
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Core\obj\Debug\net6.0\ref\CAT20.Core.dll

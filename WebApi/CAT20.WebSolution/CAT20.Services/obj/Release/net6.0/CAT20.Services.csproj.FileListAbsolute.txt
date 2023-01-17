@@ -1,0 +1,75 @@
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Services.deps.json
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Services.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Services.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Core.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Core.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.csproj.AssemblyReference.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.AssemblyInfoInputs.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.AssemblyInfo.cs
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.csproj.CoreCompileInputs.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.csproj.CopyComplete
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\refint\CAT20.Services.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\ref\CAT20.Services.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Services.deps.json
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Services.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Services.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Core.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Core.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.csproj.AssemblyReference.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.AssemblyInfoInputs.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.AssemblyInfo.cs
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.csproj.CoreCompileInputs.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.csproj.CopyComplete
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\refint\CAT20.Services.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\ref\CAT20.Services.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Services.deps.json
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Services.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Services.pdb
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Core.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Core.pdb
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.csproj.AssemblyReference.cache
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.AssemblyInfoInputs.cache
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.AssemblyInfo.cs
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.csproj.CoreCompileInputs.cache
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.csproj.CopyComplete
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\refint\CAT20.Services.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.pdb
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\ref\CAT20.Services.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Services.deps.json
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Services.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Services.pdb
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Core.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Core.pdb
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.csproj.AssemblyReference.cache
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.AssemblyInfoInputs.cache
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.AssemblyInfo.cs
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.csproj.CoreCompileInputs.cache
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.csproj.CopyComplete
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\refint\CAT20.Services.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.pdb
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\ref\CAT20.Services.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Services.deps.json
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Services.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Services.pdb
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Core.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\bin\Release\net6.0\CAT20.Core.pdb
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.csproj.AssemblyReference.cache
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.AssemblyInfoInputs.cache
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.AssemblyInfo.cs
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.csproj.CoreCompileInputs.cache
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.csproj.CopyComplete
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\refint\CAT20.Services.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\CAT20.Services.pdb
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.Services\obj\Release\net6.0\ref\CAT20.Services.dll

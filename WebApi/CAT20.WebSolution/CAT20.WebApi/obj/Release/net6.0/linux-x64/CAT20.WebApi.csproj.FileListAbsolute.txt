@@ -1,0 +1,313 @@
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\appsettings.Development.json
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\appsettings.json
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.deps.json
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.runtimeconfig.json
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\AutoMapper.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\FluentValidation.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\FluentValidation.AspNetCore.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\FluentValidation.DependencyInjectionExtensions.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Humanizer.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.JsonPatch.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.OpenApi.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\MySqlConnector.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Newtonsoft.Json.Bson.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Core.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Data.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Services.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Core.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Data.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Services.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.csproj.AssemblyReference.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.AssemblyInfoInputs.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.AssemblyInfo.cs
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.csproj.CoreCompileInputs.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.CAT20.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.build.CAT20.WebApi.props
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.buildMultiTargeting.CAT20.WebApi.props
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.buildTransitive.CAT20.WebApi.props
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets.pack.json
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets.build.json
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets.development.json
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\scopedcss\bundle\CAT20.WebApi.styles.css
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.csproj.CopyComplete
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\refint\CAT20.WebApi.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.genruntimeconfig.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\ref\CAT20.WebApi.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\appsettings.Development.json
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\appsettings.json
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.deps.json
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.runtimeconfig.json
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\AutoMapper.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\FluentValidation.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\FluentValidation.AspNetCore.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\FluentValidation.DependencyInjectionExtensions.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Humanizer.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.JsonPatch.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.OpenApi.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\MySqlConnector.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Newtonsoft.Json.Bson.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Core.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Data.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Services.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Core.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Data.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Services.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.csproj.AssemblyReference.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.AssemblyInfoInputs.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.AssemblyInfo.cs
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.csproj.CoreCompileInputs.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.CAT20.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.build.CAT20.WebApi.props
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.buildMultiTargeting.CAT20.WebApi.props
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.buildTransitive.CAT20.WebApi.props
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets.pack.json
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets.build.json
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets.development.json
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\scopedcss\bundle\CAT20.WebApi.styles.css
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.csproj.CopyComplete
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\refint\CAT20.WebApi.dll
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.pdb
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.genruntimeconfig.cache
+C:\Cat20Backups\Checked Connections mysql and mssql woking\MySql\EF6\MysqlConnection Worked solution 2022-12-13 - Copy\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\ref\CAT20.WebApi.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\appsettings.json
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\appsettings.Development.json
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.deps.json
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.runtimeconfig.json
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.pdb
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\AutoMapper.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\FluentValidation.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\FluentValidation.AspNetCore.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\FluentValidation.DependencyInjectionExtensions.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Humanizer.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.JsonPatch.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.OpenApi.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\MySqlConnector.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Newtonsoft.Json.Bson.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Pomelo.EntityFrameworkCore.MySql.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Core.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Data.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Services.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Core.pdb
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Data.pdb
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Services.pdb
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.csproj.AssemblyReference.cache
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.AssemblyInfoInputs.cache
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.AssemblyInfo.cs
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.csproj.CoreCompileInputs.cache
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.CAT20.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.build.CAT20.WebApi.props
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.buildMultiTargeting.CAT20.WebApi.props
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.buildTransitive.CAT20.WebApi.props
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets.pack.json
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets.build.json
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets.development.json
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\scopedcss\bundle\CAT20.WebApi.styles.css
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.csproj.CopyComplete
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\refint\CAT20.WebApi.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.pdb
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.genruntimeconfig.cache
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\ref\CAT20.WebApi.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Logging.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Protocols.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Tokens.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\appsettings.Development.json
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\appsettings.json
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.deps.json
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.runtimeconfig.json
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.pdb
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\AutoMapper.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\FluentValidation.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\FluentValidation.AspNetCore.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\FluentValidation.DependencyInjectionExtensions.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Humanizer.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.JsonPatch.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Logging.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Protocols.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Tokens.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.OpenApi.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\MySqlConnector.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Newtonsoft.Json.Bson.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Pomelo.EntityFrameworkCore.MySql.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Core.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Data.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Services.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Core.pdb
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Data.pdb
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Services.pdb
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.csproj.AssemblyReference.cache
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.AssemblyInfoInputs.cache
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.AssemblyInfo.cs
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.csproj.CoreCompileInputs.cache
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.CAT20.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.build.CAT20.WebApi.props
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.buildMultiTargeting.CAT20.WebApi.props
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.buildTransitive.CAT20.WebApi.props
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets.pack.json
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets.build.json
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets.development.json
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\scopedcss\bundle\CAT20.WebApi.styles.css
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.csproj.CopyComplete
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\refint\CAT20.WebApi.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.pdb
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.genruntimeconfig.cache
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\ref\CAT20.WebApi.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.DotNet.PlatformAbstractions.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyModel.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Scrutor.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.Annotations.dll
+C:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.Filters.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\appsettings.Development.json
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\appsettings.json
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.deps.json
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.runtimeconfig.json
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.WebApi.pdb
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\AutoMapper.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\FluentValidation.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\FluentValidation.AspNetCore.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\FluentValidation.DependencyInjectionExtensions.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Humanizer.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.JsonPatch.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.DotNet.PlatformAbstractions.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Design.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyModel.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Logging.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Protocols.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Tokens.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Microsoft.OpenApi.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\MySqlConnector.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Newtonsoft.Json.Bson.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Pomelo.EntityFrameworkCore.MySql.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Scrutor.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.Annotations.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.Filters.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Core.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Data.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Services.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Core.pdb
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Data.pdb
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\CAT20.Services.pdb
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.csproj.AssemblyReference.cache
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.AssemblyInfoInputs.cache
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.AssemblyInfo.cs
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.csproj.CoreCompileInputs.cache
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.CAT20.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.build.CAT20.WebApi.props
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.buildMultiTargeting.CAT20.WebApi.props
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.buildTransitive.CAT20.WebApi.props
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets.pack.json
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets.build.json
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\staticwebassets.development.json
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\scopedcss\bundle\CAT20.WebApi.styles.css
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.csproj.CopyComplete
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\refint\CAT20.WebApi.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.pdb
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\CAT20.WebApi.genruntimeconfig.cache
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\obj\Release\net6.0\linux-x64\ref\CAT20.WebApi.dll
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\appsettings.Local.json
+D:\GIT-Repository\CAT20-BackEnd\WebApi\CAT20.WebSolution\CAT20.WebApi\bin\Release\net6.0\linux-x64\appsettings.Production.json

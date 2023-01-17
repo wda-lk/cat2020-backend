@@ -1,0 +1,12 @@
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Model\bin\Release\net6.0\CAT20.Model.deps.json
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Model\bin\Release\net6.0\CAT20.Model.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Model\bin\Release\net6.0\CAT20.Model.pdb
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Model\obj\Release\net6.0\CAT20.Model.csproj.AssemblyReference.cache
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Model\obj\Release\net6.0\CAT20.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Model\obj\Release\net6.0\CAT20.Model.AssemblyInfoInputs.cache
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Model\obj\Release\net6.0\CAT20.Model.AssemblyInfo.cs
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Model\obj\Release\net6.0\CAT20.Model.csproj.CoreCompileInputs.cache
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Model\obj\Release\net6.0\CAT20.Model.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Model\obj\Release\net6.0\refint\CAT20.Model.dll
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Model\obj\Release\net6.0\CAT20.Model.pdb
+C:\CAT20\WebApi\CAT20.WebSolution\CAT20.Model\obj\Release\net6.0\ref\CAT20.Model.dll
